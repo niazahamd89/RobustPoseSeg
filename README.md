@@ -3,6 +3,6 @@
 ## RobustPoseSeg code will be available soon....
 
 
-## Visualization Results
+### Visualization Results
 ![](supli.pdf)
-supli
+ 
