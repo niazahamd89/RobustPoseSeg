@@ -6,5 +6,5 @@
 ### Visualization Results
 
 <p align="center">
-<img src="0001.jpg">
+<img src="supli.pdf">
 </p>
